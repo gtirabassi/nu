@@ -17,6 +17,7 @@ Basic command line tool to starting a project
 - `base` basic **go** hello world (dafault)
 - `server` basic **go** http server
 - `gae` basic Google App Engine blanc application
+- `codecon` new setup ready to code for a codecon challenge
 
 ## Notes
 - change location on local machine
