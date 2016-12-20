@@ -1,6 +1,9 @@
 # nu
 Basic command line tool to starting a project
 
+[![Build Status](https://travis-ci.org/drymonsoon/nu.svg?branch=master)](https://travis-ci.org/drymonsoon/nu)
+
+
 ## Usage
 
 - `nu <project name>` simple initialization
