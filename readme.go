@@ -21,7 +21,7 @@ type Readme struct {
 
 func getMe(n string) Readme {
 	var me Readme
-	me.Author = "Giacomo Tirabassi (drymonsoon)"
+	me.Author = "<Autho name> (<github handle>)"
 	me.Name = n
 	me.Date = time.Now().Format(time.RFC850)
 	return me

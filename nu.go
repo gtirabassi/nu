@@ -29,7 +29,6 @@ func init() {
 func main() {
 	readtpl, err := template.New("readme").Parse(readme)
 	check(err)
-
 	flag.Parse()
 	n = flag.Arg(0)
 	log.Println(n)
