@@ -17,3 +17,6 @@ Basic command line tool to starting a project
 - `base` basic **go** hello world (dafault)
 - `server` basic **go** http server
 - `gae` basic Google App Engine blanc application
+
+## Notes
+- change location on local machine
