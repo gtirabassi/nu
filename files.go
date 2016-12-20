@@ -11,5 +11,6 @@ func getFiles() map[string][]Files {
 	j["base"] = []Files{base}
 	j["server"] = []Files{server}
 	j["gae"] = []Files{yaml, app}
+	j["codecon"] = []Files{codecon, data}
 	return j
 }
