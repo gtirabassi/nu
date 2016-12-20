@@ -1,8 +1,10 @@
 # nu
-Basic command line tool to starting a project
 
 [![Build Status](https://travis-ci.org/drymonsoon/nu.svg?branch=master)](https://travis-ci.org/drymonsoon/nu)
+[![Go Report Card](https://goreportcard.com/badge/github.com/drymonsoon/nu)](https://goreportcard.com/report/github.com/drymonsoon/nu)
 
+For some more informations about the project [https://godoc.org/github.com/drymonsoon/nu](https://godoc.org/github.com/drymonsoon/nu)
+Basic command line tool to starting a project
 
 ## Usage
 
