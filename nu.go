@@ -70,7 +70,7 @@ func main() {
 	color.Green("Enjoy your Project!!")
 	color.Green("Opening ATOM as we speak")
 	time.Sleep(time.Second)
-	_, er := exec.Command("/bin/sh", "-c", "atom "+n).Output()
+	_, er := exec.Command("/bin/sh", "-c", "code "+n).Output()
 	check(er)
 	os.Exit(0)
 }
