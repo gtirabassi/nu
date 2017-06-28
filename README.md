@@ -22,3 +22,4 @@ Basic command line tool to starting a project
 ## Notes
 - change location on local machine
 - added tag 1.0.0
+- qui e` passo GTIRABASSI
